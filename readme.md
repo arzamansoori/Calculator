@@ -23,5 +23,7 @@ Calcultor is a simple website, which helps you too perform basic arithmetic oper
 To use Calculator or to see website. Please click on the deployed link below.
 
 [Calculator](https://calculatorprojectapp.netlify.app/)
+<br>
+<br>
 ![Claculator Website Image](./cal.png)
 
